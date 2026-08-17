@@ -126,4 +126,4 @@ This is a **frontend practice project** created for educational purposes. It is 
 
 **Kunal Kharat**
 
-* GitHub: [KunalKharat2008](https://github.com/KunalKharat77)
+* GitHub: [KunalKharat77](https://github.com/KunalKharat77)
