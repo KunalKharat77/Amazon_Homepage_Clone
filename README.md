@@ -4,7 +4,7 @@ A frontend recreation of the Amazon homepage built using **HTML and CSS**. This 
 
 ## 🚀 Live Demo
 
-[View Live Demo](#)
+[View Live Demo](https://amazon-homepage-clone-ivory.vercel.app/)
 
 ## 📌 Features
 
@@ -126,4 +126,4 @@ This is a **frontend practice project** created for educational purposes. It is 
 
 **Kunal Kharat**
 
-* GitHub: [KunalKharat2008](https://github.com/KunalKharat2008)
+* GitHub: [KunalKharat2008](https://github.com/KunalKharat77)
